@@ -1,0 +1,9 @@
+div {
+  height: 3000px;
+  background: url(img/siim-lukka-K6rjbT5P6wE-unsplash.jpg) center top / contain no-repeat;
+  padding: 100px 100px;
+}
+
+h1 , p {
+  color: #fff;
+}
